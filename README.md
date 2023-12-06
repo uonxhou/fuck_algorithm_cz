@@ -1,2 +1,1 @@
-# fuck_algorithm_cz
-This repo is for algorithm practicing 2023
+# Interview for 2023
