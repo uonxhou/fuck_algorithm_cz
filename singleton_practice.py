@@ -34,7 +34,6 @@ class Teacher:
 if __name__ == '__main__':
     # s1 = Student("c")
     # s2 = Student("suo")
-    #
     # print(s1 is s2)
     t1 = Teacher("chaozhou")
     t2 = Teacher("praveen")
