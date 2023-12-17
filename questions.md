@@ -26,6 +26,8 @@ https://www.zhihu.com/question/458380614/answer/2931438114
 
 
 
+
+
 ## Python基础
 
 python字典底层实现原理:<br>
@@ -33,6 +35,10 @@ https://blog.csdn.net/answer3lin/article/details/84523332
 
 如何理解python万物皆对象:<br>
 https://zhuanlan.zhihu.com/p/350060973
+
+python迭代器和生成器:<br>
+https://www.zhihu.com/question/20829330/answer/2320711618
+
 
 
 
@@ -47,3 +53,11 @@ https://zhuanlan.zhihu.com/p/105615075
 ## 数据结构与算法
 二叉树的四种遍历:<br>
 https://leetcode.cn/problems/binary-tree-preorder-traversal/solutions/247053/tu-jie-er-cha-shu-de-si-chong-bian-li-by-z1m/
+
+
+## 设计模式
+
+python装饰器:<br>
+
+工厂模式:<br>
+https://www.notion.so/afa75ebd58054c60b95bee87891428e7?pvs=4
